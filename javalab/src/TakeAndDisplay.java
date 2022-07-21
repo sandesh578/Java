@@ -1,0 +1,19 @@
+import java.util.Scanner;
+public class TakeAndDisplay {
+
+	public static void main(String[] args) {
+		Scanner scan=new Scanner(System.in);
+	
+		System.out.println("Enter five strings:");
+		String[] str=new String[5];
+		for(int i=0;i<5;i++) {
+			str[i]=scan.nextLine();
+		}
+		System.out.println("Strings are:");
+		for(int i=0;i<5;i++) {
+			System.out.println(str[i]);
+		}
+		scan.close();
+	}
+
+}

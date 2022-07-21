@@ -1,0 +1,6 @@
+1616336856328	Rename type 'Queue'
+1616336912829	Rename method 'enqueue'
+1616336925905	Rename method 'dequeue'
+1616337044156	Rename field 'head'
+1616338127683	Rename field 'head'
+1616338146528	Rename field 'tail'

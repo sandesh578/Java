@@ -1,0 +1,5 @@
+DependenciesView.show.callers=false
+Preferences.MainPage.disableAPIAnalysisBuilder=true
+Preferences.MainPage.overwriteBuildFilesOnExport=prompt
+Preferences.MainPage.showTargetStatus=true
+eclipse.preferences.version=1

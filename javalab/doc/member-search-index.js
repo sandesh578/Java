@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"javaDoc","c":"JavaDocDemo","l":"JavaDocDemo()","url":"%3Cinit%3E()"},{"p":"javaDoc","c":"JavaDocDemo","l":"main(String[])","url":"main(java.lang.String[])"}]

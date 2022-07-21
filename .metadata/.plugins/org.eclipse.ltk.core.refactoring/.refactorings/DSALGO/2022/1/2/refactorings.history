@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;matrix.LowerTriangular&apos; to &apos;Symmetrixmat&apos;&#x0D;&#x0A;- Original project: &apos;DSALGO&apos;&#x0D;&#x0A;- Original element: &apos;matrix.LowerTriangular&apos;&#x0D;&#x0A;- Renamed element: &apos;matrix.Symmetrixmat&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LowerTriangular&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;matrix{SymmetricMatrix.java[LowerTriangular" matchStrategy="1" name="Symmetrixmat" qualified="false" references="true" similarDeclarations="false" stamp="1641454514831" textual="false" version="1.0"/>
+</session>
